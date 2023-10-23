@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Garg</h1>
 
-<h3 align="center">I'm a Frontend  and Backend developer .</h3>
+<h3 align="center">I'm a Backend developer or Work in Scripting .</h3>
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sakshigargg">
@@ -9,12 +9,13 @@
 </p>
 ## 🙋‍♂️ About Me 
 
-- 👨🏽‍💻 I'm currently learning to create API's and working on scripting
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👨🏽‍💻 Passionate **Software Developer** having proficiency in developing, testing debugging and maintaining **Nodejs** application
+- 👯 Creating reusable module and libraries.
 - 👨‍💻 All of my projects are available at **[My Github Account](https://github.com/sakshigargg?tab=repositories)**
+- 🧗 Create customized **Smart Contracts** to store states, dapp creation and **blockChain integration using Ethereum**.
 - 📫 You can reach me at [linkedin] or send me a personalized **<a href="https://www.linkedin.com/in/sakshi-garg-411a3419b">LinkedIn</a>** 
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact **I like to collect different types of hacking tools for educational purpose and for security purpose**
+- ⚡ Fun fact **I've had the opportunity to work on a variety of server-side projects. I specialize in building scalable, high-performance applications using the latest JavaScript technologies**
 
 ## 🚀 Languages and Tools:
 
