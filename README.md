@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Garg</h1>
 
-<h3 align="center">I'm a Backend developer or Work in Scripting .</h3>
+<h3 align="center">I'm a Backend developer or Work in Scripting </h3>
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sakshigargg">
